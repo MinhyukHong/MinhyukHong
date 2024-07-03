@@ -1,4 +1,4 @@
-## Hi 👋
+## Minhyuk Hong 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhyukHong&show_icons=true&theme=tokyonight)
 
