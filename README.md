@@ -47,9 +47,6 @@
   <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
   <a href="https://training.linuxfoundation.org/?SSAID=2575451&sscid=71k8_57mtz&utm_source=shareasale&utm_medium=affiliate&utm_campaign=affiliate" target="_blank">
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   </a>
