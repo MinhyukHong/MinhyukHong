@@ -12,6 +12,9 @@ Currently, I am researching browser extensions' security mechanisms and their po
 
 ### 🛠️
 
+[![YARA](https://img.shields.io/badge/YARA-FF5733?logo=YARA&logoColor=white)](https://virustotal.github.io/yara/)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)](https://www.wireshark.org/)
+[![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FCA121?logo=burp-suite&logoColor=white)](https://portswigger.net/burp)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
