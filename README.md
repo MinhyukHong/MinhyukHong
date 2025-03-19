@@ -10,7 +10,7 @@ Currently, I am researching browser extensions' security mechanisms and their po
 
 ---
 
-### 🛠️
+### *Tech*
 
 [![YARA](https://img.shields.io/badge/YARA-FF5733?logo=YARA&logoColor=white)](https://virustotal.github.io/yara/)
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)](https://www.wireshark.org/)
@@ -33,7 +33,7 @@ Currently, I am researching browser extensions' security mechanisms and their po
 
 ---
 
-### 📩 Let's connect.  
+### Let's connect 📩  
 
 [![Naver Mail](https://img.shields.io/badge/Naver-03C75A?logo=naver&logoColor=white)](mailto:minster7650@naver.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhyukhong/)
