@@ -11,7 +11,10 @@ Currently, I am researching browser extensions' security mechanisms and their po
 ---
 
 ### *Tech*
-
+<img src="https://github.com/user-attachments/assets/66d81621-9843-447e-b0a7-10558d10c0dd" width="450"/><br>
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhyukHong&layout=compact)
+-->
 [![YARA](https://img.shields.io/badge/YARA-FF5733?logo=YARA&logoColor=white)](https://virustotal.github.io/yara/)
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 [![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FCA121?logo=burp-suite&logoColor=white)](https://portswigger.net/burp)
