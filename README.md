@@ -1,10 +1,9 @@
 ### Minhyuc 💻
 
-I am a cybersecurity undergraduate researcher specializing in **malware analysis** and **browser plugin security**. My work involves investigating security vulnerabilities, analyzing malicious code behavior, and developing proactive security solutions.  
-
-I have hands-on experience in *machine learning and deep learning*, *network traffic analysis*, and *malware analysis*. I also focus on designing automated malware analysis tools and leveraging AI/ML techniques for cybersecurity applications.
-
-Currently, I am researching browser extensions' security mechanisms and their potential vulnerabilities, aiming to enhance web security.  
+**Malware analysis** & **Browser plugin security**  
+Investigating security vulnerabilities, analyzing malicious code behavior, and developing proactive security solutions.  
+Hands-on experience in: *machine learning and deep learning*, *network traffic analysis*, and *malware analysis*.  
+Focus on: *Designing utomated malware analysis tools & leveraging AI/ML techniques for cybersecurity applications*
 
 [![wakatime](https://wakatime.com/badge/user/7208c7e2-6482-4175-9d5d-c412c00ab154.svg)](https://wakatime.com/@7208c7e2-6482-4175-9d5d-c412c00ab154)  
 
