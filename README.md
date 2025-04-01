@@ -1,8 +1,8 @@
 ### Minhyuc 💻
 
 **Malware analysis** & **Browser plugin security**  
-Investigating security vulnerabilities, analyzing malicious code behavior, and developing proactive security solutions.  
-Hands-on experience in: *machine learning and deep learning*, *network traffic analysis*, and *malware analysis*.  
+Investigating: *security vulnerabilities, analyzing malicious code behavior, & developing proactive security solutions*  
+Hands-on experience in: *machine learning and deep learning*, *network traffic analysis*, and *malware analysis*  
 Focus on: *Designing utomated malware analysis tools & leveraging AI/ML techniques for cybersecurity applications*
 
 [![wakatime](https://wakatime.com/badge/user/7208c7e2-6482-4175-9d5d-c412c00ab154.svg)](https://wakatime.com/@7208c7e2-6482-4175-9d5d-c412c00ab154)  
