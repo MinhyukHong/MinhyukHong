@@ -1,6 +1,6 @@
 ### Minhyuc 💻
 
-**Malware analysis** & **Browser plugin security**  
+**Malware analysis** & **Software supply chain security**  
 Investigating: *security vulnerabilities, analyzing malicious code behavior, & developing proactive security solutions*  
 Hands-on experience in: *machine learning and deep learning*, *network traffic analysis*, and *malware analysis*  
 Focus on: *Designing automated malware analysis tools & leveraging AI/ML techniques for cybersecurity applications*
